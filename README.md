@@ -10,9 +10,10 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<img src="https://raw.githubusercontent.com/feka3/feka3/output/snake.svg" alt="Snake animation" />
+
+###</div>
+
 
 
 <!--h2 without bottom border-->
