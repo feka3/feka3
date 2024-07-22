@@ -59,3 +59,7 @@
     <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,express,figma,firebase,github,html,vite,nestjs,java,vscode,js,ts,linux,vercel,md,materialui,mongodb,nextjs,nodejs,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
